@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://wiki.hyjhyper.top/wiki/wikispirit/</loc>
+    <loc>https://wiki.hyjhyper.top/wiki/hello-world/</loc>
     
     <lastmod>2023-07-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://wiki.hyjhyper.top/wiki/hello-world/</loc>
+    <loc>https://wiki.hyjhyper.top/wiki/wikispirit/</loc>
     
     <lastmod>2023-07-03</lastmod>
     
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>https://wiki.hyjhyper.top/tags/hide/</loc>
+    <loc>https://wiki.hyjhyper.top/tags/article/</loc>
     <lastmod>2023-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
