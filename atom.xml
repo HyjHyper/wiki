@@ -6,7 +6,7 @@
   <link href="https://wiki.hyjhyper.top/atom.xml" rel="self"/>
   
   <link href="https://wiki.hyjhyper.top/"/>
-  <updated>2023-07-03T11:14:46.469Z</updated>
+  <updated>2023-07-03T11:28:15.541Z</updated>
   <id>https://wiki.hyjhyper.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wiki.hyjhyper.top/wiki/wikispirit/"/>
     <id>https://wiki.hyjhyper.top/wiki/wikispirit/</id>
     <published>2023-07-03T10:47:21.000Z</published>
-    <updated>2023-07-03T11:14:46.469Z</updated>
+    <updated>2023-07-03T11:28:15.541Z</updated>
     
     <content type="html"><![CDATA[<h3 id="这是我的-Wiki-站。"><a href="#这是我的-Wiki-站。" class="headerlink" title="这是我的 Wiki 站。"></a>这是我的 Wiki 站。</h3><p>但实际上呢，我并不觉得它算是什么所谓的“wiki”。大概最后的产物也不过是个三无产品。</p><p>但这仍然算是一件好事。因为我在继拥有了博客之后，终于又拥有了一个可以帮我把内容系统整理的网站，如果说要随便又快速地上传一些零碎的东西，Wiki 这种组织形式无疑是非常合适的。</p><p>欢迎你在我的博客上随便逛逛！</p><p>在实际运行几天后，这里将陆续添加动态。</p><p>共勉！</p>]]></content>
     
@@ -33,6 +33,8 @@
     
     
     
+    <category term="-[示例]" scheme="https://wiki.hyjhyper.top/categories/%E7%A4%BA%E4%BE%8B/"/>
+    
     
   </entry>
   
@@ -41,7 +43,7 @@
     <link href="https://wiki.hyjhyper.top/wiki/hello-world/"/>
     <id>https://wiki.hyjhyper.top/wiki/hello-world/</id>
     <published>2023-06-17T16:00:00.000Z</published>
-    <updated>2023-07-03T01:22:05.405Z</updated>
+    <updated>2023-07-03T11:28:11.937Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -55,6 +57,8 @@
     
     <category term="示例" scheme="https://wiki.hyjhyper.top/categories/%E7%A4%BA%E4%BE%8B/"/>
     
+    
+    <category term="hide" scheme="https://wiki.hyjhyper.top/tags/hide/"/>
     
   </entry>
   
