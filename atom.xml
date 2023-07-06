@@ -43,13 +43,13 @@
   </entry>
   
   <entry>
-    <title>101.4 集合的表示方法</title>
+    <title>集合的表示方法</title>
     <link href="https://wiki.hyjhyper.top/wiki/101-4/"/>
     <id>https://wiki.hyjhyper.top/wiki/101-4/</id>
     <published>2023-07-06T01:43:09.000Z</published>
-    <updated>2023-07-06T02:05:12.876Z</updated>
+    <updated>2023-07-06T02:47:23.008Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="列举法"><a href="#列举法" class="headerlink" title="列举法"></a>列举法</h1><p>把集合的元素一一列举出来，并用花括号{}括起来表示集合的方法叫做列举法。<br>优点：方便、快捷，集合中的元素一目了然，适用于表示元素个数较少的集合。<br>缺点：不易看出元素所具有的特征。<br>必须注意：</p><ol><li>元素间用”,”隔开；</li><li>元素不能重复；</li><li>元素无顺序；</li><li>对于含较多元素的集合，如果构成该集合的元素有明显规律，可用列举法，但必须把元素间的规律显示清楚后才能用省略号。例如：自然数集 N&#x3D; {0,1,2,3,4，······}。</li></ol><h1 id="描述法"><a href="#描述法" class="headerlink" title="描述法"></a>描述法</h1><p>描述法：用集合所含元素的共同特征表示集合的方法叫做描<br>述法。<br>基本形式为 {x∈A|p(x)} 。<br>x是集合的代表元素，集合A是x的取值（或变化）范围，P(x)是集合中元素所具有的共同特征。<br>优点：语言简洁、抽象，元素的规律与性质能清楚地表示出来适用于表示无限集或元素个数较多的集合。<br>缺点：不易看出集合中的具体元素。<br>!!! note “”<br>    有时也用冒号或分号代替竖线。</p><h1 id="图示法"><a href="#图示法" class="headerlink" title="图示法"></a>图示法</h1><p>常用Venn图法和数轴法表示集合。<br>优点：形象、直观<br>缺点：只能作为解题的辅助工具</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="列举法"><a href="#列举法" class="headerlink" title="列举法"></a>列举法</h1><p>把集合的元素一一列举出来，并用花括号{}括起来表示集合的方法叫做列举法。<br>优点：方便、快捷，集合中的元素一目了然，适用于表示元素个数较少的集合。<br>缺点：不易看出元素所具有的特征。<br>必须注意：</p><ol><li>元素间用”,”隔开；</li><li>元素不能重复；</li><li>元素无顺序；</li><li>对于含较多元素的集合，如果构成该集合的元素有明显规律，可用列举法，但必须把元素间的规律显示清楚后才能用省略号。例如：自然数集 N&#x3D; {0,1,2,3,4，······}。</li></ol><h1 id="描述法"><a href="#描述法" class="headerlink" title="描述法"></a>描述法</h1><p>描述法：用集合所含元素的共同特征表示集合的方法叫做描<br>述法。<br>基本形式为 {x∈A|p(x)} 。<br>x是集合的代表元素，集合A是x的取值（或变化）范围，P(x)是集合中元素所具有的共同特征。<br>优点：语言简洁、抽象，元素的规律与性质能清楚地表示出来适用于表示无限集或元素个数较多的集合。<br>缺点：不易看出集合中的具体元素。</p><div class="admonition note"><p>有时也用冒号或分号代替竖线。</p></div><h1 id="图示法"><a href="#图示法" class="headerlink" title="图示法"></a>图示法</h1><p>常用Venn图法和数轴法表示集合。<br>优点：形象、直观<br>缺点：只能作为解题的辅助工具</p>]]></content>
     
     
       
@@ -73,11 +73,11 @@
   </entry>
   
   <entry>
-    <title>101.3 元素与集合的关系</title>
+    <title>元素与集合的关系</title>
     <link href="https://wiki.hyjhyper.top/wiki/101-3/"/>
     <id>https://wiki.hyjhyper.top/wiki/101-3/</id>
     <published>2023-07-06T01:41:04.000Z</published>
-    <updated>2023-07-06T02:04:58.584Z</updated>
+    <updated>2023-07-06T02:46:57.672Z</updated>
     
     <content type="html"><![CDATA[<h1 id="属于"><a href="#属于" class="headerlink" title="属于"></a>属于</h1><p>如果a是集合A中的元素，就说a属于集合A，记作a∈A。</p><h1 id="不属于"><a href="#不属于" class="headerlink" title="不属于"></a>不属于</h1><p>如果a不是集合A中的元素，就说a不属于集合A，记作a∉A。</p>]]></content>
     
